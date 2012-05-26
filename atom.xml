@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://suziewong.github.com/suziewong/atom.xml" rel="self"/>
+  <link href="http://suziewong.github.com/suziewong/"/>
+  <updated>2012-05-25T21:10:22+08:00</updated>
+  <id>http://suziewong.github.com/suziewong/</id>
+  <author>
+    <name><![CDATA[Suzie Wong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello suzie]]></title>
+    <link href="http://suziewong.github.com/suziewong/blog/2012/05/24/hello-suzie/"/>
+    <updated>2012-05-24T21:01:00+08:00</updated>
+    <id>http://suziewong.github.com/suziewong/blog/2012/05/24/hello-suzie</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
